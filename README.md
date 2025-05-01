@@ -17,4 +17,4 @@ About Me
 
 📫 **Contact Info:**
 
-- ✉️ Email: [matthiasmifsud3@gmail.com](mailto:matthiasmifsud3@gmail.com)
+✉️ Email: [matthiasmifsud3@gmail.com](mailto:matthiasmifsud3@gmail.com)
