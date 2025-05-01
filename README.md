@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Matthias 👋
 
-<!--
-**MatthiasMifsud/MatthiasMifsud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a **Bachelor of Science in Information Technology (Honours) - Artificial Intelligence** student at the **University of Malta**.
 
-Here are some ideas to get you started:
+💡 Passionate about AI, machine learning, and building intelligent systems that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently working on academic and individual projects, mainly with **Python**.
+
+🛠️ **Tech Stack:**
+- **Languages:** Python, R, Java, Prolog, C, HTML, CSS, JavaScript, SQL (PostgreSQL)
+- **Tools/Frameworks:** RStudio, R Markdown
+- **Platforms:** Linux, GitHub, VS Code
+
+![GitHub Pro](https://img.shields.io/badge/GitHub-Pro-blue?logo=github)
+
+📫 **How to reach me:**
+- ✉️ Email: matthiasmifsud3@gmail.com
+
+---
+
+### 📊 GitHub Stats
+
+![Matthias's GitHub Stats](https://github-readme-stats.vercel.app/api?username=**your-github-username**&show_icons=true&theme=radical)
