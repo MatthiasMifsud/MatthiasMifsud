@@ -17,5 +17,4 @@ About Me
 
 📫 **Contact Info:**
 
-<img src="https://media.giphy.com/media/3o7TKr3Hzp8zv3m5Ic/giphy.gif" width="30" alt="email icon" />
-**matthiasmifsud3@gmail.com**
+![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Matthias+%F0%9F%91%8B;📧+matthiasmifsud3%40gmail.com)
