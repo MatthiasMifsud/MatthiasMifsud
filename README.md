@@ -15,9 +15,3 @@
 
 📫 **How to reach me:**
 - ✉️ Email: matthiasmifsud3@gmail.com
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatthiasMifsud&show_icons=true&theme=radical&cache_seconds=86400)
