@@ -17,4 +17,5 @@ About Me
 
 📫 **Contact Info:**
 
-[![Email](https://img.shields.io/badge/Email-matthiasmifsud3@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:matthiasmifsud3@gmail.com)
+<img src="https://media.giphy.com/media/3o7TKr3Hzp8zv3m5Ic/giphy.gif" width="30" alt="email icon" />
+**matthiasmifsud3@gmail.com**
