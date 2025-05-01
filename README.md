@@ -16,4 +16,4 @@ About Me
 ![GitHub Pro](https://img.shields.io/badge/GitHub-Pro-blue?logo=github)
 
 📫 **Contact Info:**
-- <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="20"> Email: [matthiasmifsud3@gmail.com](mailto:matthiasmifsud3@gmail.com)
+[![Email](https://img.shields.io/badge/Email-matthiasmifsud3@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:matthiasmifsud3@gmail.com)
