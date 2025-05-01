@@ -1,7 +1,7 @@
 About Me
 ---
 
-# Hi there, I'm Matthias <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="30">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=1000&color=F7F7F7&center=true&repeat=false&width=435&lines=Hi+there%2C+I'm+Matthias+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 🎓 I'm pursuing a **BSc in Artificial Intelligence** at the **University of Malta**.
 
@@ -16,4 +16,5 @@ About Me
 ![GitHub Pro](https://img.shields.io/badge/GitHub-Pro-blue?logo=github)
 
 📫 **Contact Info:**
+
 [![Email](https://img.shields.io/badge/Email-matthiasmifsud3@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:matthiasmifsud3@gmail.com)
