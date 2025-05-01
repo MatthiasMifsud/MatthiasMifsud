@@ -1,17 +1,16 @@
 # Hi there, I'm Matthias 👋
 
-🎓 I'm a **Bachelor of Science in Information Technology (Honours) - Artificial Intelligence** student at the **University of Malta**.
+🎓 I'm pursuing a **BSc (Hons) in Information Technology (Artificial Intelligence)** at the **University of Malta**.
 
-💡 Passionate about AI, machine learning, and building intelligent systems that solve real-world problems.
+💡 I'm passionate about **AI**, **machine learning**, and building intelligent systems that solve real-world problems.
 
-🔭 Currently working on academic and individual projects, mainly with **Python**.
+🔭 I'm currently working on both academic and personal projects, primarily using **Python**, and exploring **C++** for physics engine development.
 
 🛠️ **Tech Stack:**
-- **Languages:** Python, R, Java, Prolog, C, HTML, CSS, JavaScript, SQL (PostgreSQL)
-- **Tools/Frameworks:** RStudio, R Markdown
+- **Languages:** Python, R Studio, Java, Prolog, C, HTML, CSS, JavaScript, SQL (PostgreSQL)
 - **Platforms:** Linux, GitHub, VS Code
 
 ![GitHub Pro](https://img.shields.io/badge/GitHub-Pro-blue?logo=github)
 
-📫 **How to reach me:**
-- ✉️ Email: matthiasmifsud3@gmail.com
+📫 **Contact Info:**
+- ✉️ Email: [matthiasmifsud3@gmail.com](mailto:matthiasmifsud3@gmail.com)
