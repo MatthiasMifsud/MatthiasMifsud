@@ -17,4 +17,4 @@ About Me
 
 📫 **Contact Info:**
 
-![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Matthias+%F0%9F%91%8B;📧+matthiasmifsud3%40gmail.com)
+- ✉️ Email: [matthiasmifsud3@gmail.com](mailto:matthiasmifsud3@gmail.com)
