@@ -13,8 +13,6 @@ About Me
 - **Languages:** Python, R Studio, Java, Prolog, C, HTML, CSS, JavaScript, SQL (PostgreSQL)
 - **Platforms:** Linux, GitHub, VS Code
 
-![GitHub Pro](https://img.shields.io/badge/GitHub-Pro-blue?logo=github)
-
 📫 **Contact Info:**
 
 ✉️ Email: [matthiasmifsud3@gmail.com](mailto:matthiasmifsud3@gmail.com)
