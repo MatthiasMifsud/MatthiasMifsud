@@ -16,3 +16,7 @@ About Me
 📫 **Contact Info:**
 
 ✉️ Email: [matthiasmifsud3@gmail.com](mailto:matthiasmifsud3@gmail.com)
+
+---
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MatthiasMifsud&bg_color=1a1b27&color=9be9a8&line=58a6ff&point=fac858&area=true&hide_border=true)
