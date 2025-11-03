@@ -5,12 +5,12 @@ About Me
 
 🎓 I'm pursuing a **BSc in Artificial Intelligence** at the **University of Malta**.
 
-💡 I'm passionate about **AI**, **machine learning**, and building intelligent systems that solve real-world problems.
+💡 I'm passionate about **AI**, **machine learning**, **computer vision**, and building intelligent systems that solve real-world problems.
 
 🔭 I'm currently working on both academic and personal projects.
 
 🛠️ **Tech Stack:**
-- **Languages:** Python, R Studio, Java, Prolog, C, HTML, CSS, JavaScript, SQL (PostgreSQL)
+- **Languages:** Python, R Studio, Java, Prolog, C, C++, HTML, CSS, JavaScript, TypeScript, SQL (PostgreSQL)
 - **Platforms:** Linux, GitHub, VS Code
 
 📫 **Contact Info:**
