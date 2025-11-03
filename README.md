@@ -10,7 +10,7 @@ About Me
 🔭 I'm currently working on both academic and personal projects.
 
 🛠️ **Tech Stack:**
-- **Languages:** Python, R Studio, Java, Prolog, C, C++, HTML, CSS, JavaScript, TypeScript, SQL (PostgreSQL)
+- **Languages:** Python, R Studio, Java, C, C++, HTML, CSS, JavaScript, TypeScript, SQL (PostgreSQL)...
 - **Platforms:** Linux, GitHub, VS Code
 
 📫 **Contact Info:**
