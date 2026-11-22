@@ -12,7 +12,3 @@ About Me
 🛠️ **Tech Stack:**
 - **Languages:** Python, R Studio, Java, C, C++, HTML, CSS, JavaScript, TypeScript, SQL (PostgreSQL)...
 - **Platforms:** Linux, GitHub, VS Code
-
-📫 **Contact Info:**
-
-✉️ Email: [matthiasmifsud3@gmail.com](mailto:matthiasmifsud3@gmail.com)
